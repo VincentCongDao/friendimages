@@ -1,0 +1,23 @@
+{
+    "json.schemas": [
+    
+    ],
+    "editor.formatOnSave": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.snippetSuggestions": "top",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "razor": "html",
+        "plaintext": "pug"
+    },
+    "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
+    "emmet.preferences": {
+        "css.webkitProperties": "border-right,animation",
+        "css.mozProperties": "",
+        "css.oProperties": null,
+        "css.msProperties": null,
+        "filter.commentAfter": "\n<!-- /[#ID][.CLASS] -->"
+    },
+
+}
