@@ -1,8 +1,8 @@
-This project is to be similar as Instagram-clone
+This project is to be similar as Instagram
 
-Task still needs to be finish at hands
-<<<<<<< HEAD
-[] Display user
-[] Display follow
-=======
->>>>>>> 5725e3951f881abb063ce97a5528ca4ee1e9276e
+- Task still needs to be finish at hands
+
+- [x] Display user
+- [x] Display follow
+
+Website link: [Friendimages](https://awesome-wilson-29b6f5.netlify.app/)
